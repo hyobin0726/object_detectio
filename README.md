@@ -1,4 +1,5 @@
 # object-detection : 시각장애인을 위한 AI 제품인식 시스템
+![image](https://github.com/hyobin0726/object_detection/assets/140376727/8ee7e75f-bc12-4b2e-8010-649361507d2b)
 
 ❓Problem : 다수의 시각장애인들은 본인이 섭취하는 음식의 유통기한을 알지 못하는 불편함을 드러냄, 더 나아가 알약과 같은 의약품의 경우 생김새가 비슷한 경우가 많아 촉감으로는 구별하기 어렵다.😮<br/>
 <br/>
@@ -7,10 +8,12 @@
 💯 Solution : YOLOv5, OCR, dectron2을 이용해 사용자가 원하는 정보를 알려주자😁<br/>
 
 ## 구현 영상
-
+https://youtu.be/v_KV7fvceWY?si=LRud7svx71RzoqtO
 (영상추가하기)
 ## 주요 기능과 로직
-
+1. 유통기한 
+2. 제품명
+3. 알약정보
 
 ## 메인 로직 :
 
