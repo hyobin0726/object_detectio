@@ -3,11 +3,8 @@
 
 
 ❓Problem : 다수의 시각장애인들은 본인이 섭취하는 음식의 유통기한을 알지 못하는 불편함을 드러냄, 더 나아가 알약과 같은 의약품의 경우 생김새가 비슷한 경우가 많아 촉감으로는 구별하기 어렵다.😮<br/>
-<img src="https://github.com/hyobin0726/object_detection/assets/140376727/26a36441-28ec-4f54-9bc5-a8638bd9b30b" width="600" height="350"/>
-
-<br/>
-‼ Idea : AI기술인 객체인식을 이용해 사용자가 원하는 정보(상품명, 유통기한, 복용법)을 음성으로 알려주는 기기는 어떨까? 🤔<br/>
-<br/>
+<img src="https://github.com/hyobin0726/object_detection/assets/140376727/26a36441-28ec-4f54-9bc5-a8638bd9b30b" width="600" height="350"/><br/>
+👍Idea : AI기술인 객체인식을 이용해 사용자가 원하는 정보(상품명, 유통기한, 복용법)을 음성으로 알려주는 기기는 어떨까? 🤔<br/>
 💯 Solution : YOLOv5, OCR, dectron2을 이용해 사용자가 원하는 정보를 알려주자.😁<br/>
 
 ## 구현 영상
@@ -18,7 +15,7 @@
 
 ### 최종 발표 시연영상 보러가기
 
-[![최종 발표 썸네일](https://img.youtube.com/vi/uHKPx-g8Uxg&t=9s/0.jpg)](https://www.youtube.com/watch?v=uHKPx-g8Uxg&t=9s)
+[![최종 발표 썸네일](https://img.youtube.com/vi/uHKPx-g8Uxg/0.jpg)](https://www.youtube.com/watch?v=uHKPx-g8Uxg&t=9s)
 
 ## 주요 기능과 로직
 1. ### 유통기한
