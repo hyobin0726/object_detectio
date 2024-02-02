@@ -16,8 +16,8 @@ import final_expirationdate as date
 import final_expirationdate as camera
 import final_expirationdate as ocr
 import final_expirationdate as quickstart3
-
 import final_main as start
+
 global transcript
 
 start.main()
@@ -46,7 +46,6 @@ class MicrophoneStream(object):
         )
 
         self.closed = False
-
         return self
 
     def __exit__(self, type, value, traceback):
@@ -145,7 +144,6 @@ if(transcript == "유통기한"):
     
     playsound("final.mp3")
     removefile.removefile('/home/pi/video/cropped_images')
-    
 
 elif transcript == "알약":
     #알약 촬영 후 인식
