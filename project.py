@@ -6,11 +6,10 @@ import product.quickstart as quickstart
 import quickstart2
 import os,sys
 import video
-import practice
+import expirationdate as practice
 import retext
 import removefile
 import middle_mian.sensor as sensor
-import datetime 
 import know.enter as enter
 
 global fooddate 
