@@ -13,8 +13,7 @@
 ## 구현 영상
 ### 중간 발표 시연영상
 <br/>
-
-<iframe width="956" height="538" src="https://www.youtube.com/embed/ozv4q2ov3Mk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[중간 발표](https://www.youtube.com/watch?v=v_KV7fvceWY&t=4s)
 
 ### 최종 발표 시연영상
 <br/>
