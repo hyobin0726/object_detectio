@@ -1,16 +1,17 @@
+#중간 발표 메인 코드
 from playsound import playsound
-import AdapterTestDemo
-import stt
-import quickstart
+import product.AdapterTestDemo as AdapterTestDemo
+import middle_mian.stt as stt
+import product.quickstart as quickstart
 import quickstart2
 import os,sys
 import video
 import practice
 import retext
 import removefile
-import sensor
+import middle_mian.sensor as sensor
 import datetime 
-import enter
+import know.enter as enter
 
 global fooddate 
 global food
@@ -30,9 +31,11 @@ def main():
         
     stt.main()
     if(stt.transcript == "제품명"):
+        #4방면 카메라 촬영
         AdapterTestDemo.main()
         #제품명을 위한 바코드 인식
         video.main()
+        #최종 '%s입니다' 형식으로 제품명 음성 출력
         quickstart.main()
         playsound("output.mp3")
         

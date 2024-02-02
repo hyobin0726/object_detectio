@@ -2,6 +2,7 @@ import pyzbar.pyzbar as pyzbar
 import cv2
 import requests
 import json, urllib.request
+global BAR_CD_output
 
 
 n = 1

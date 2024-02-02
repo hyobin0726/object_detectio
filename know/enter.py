@@ -1,6 +1,6 @@
 import video
 import retext
-import stt
+import middle_mian.stt as stt
 import quickstart3
 import pickle
 import playsound
