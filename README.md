@@ -1,9 +1,9 @@
 # object-detection : 시각장애인을 위한 AI 제품인식 멀티 디바이스
-<img src="https://github.com/hyobin0726/object_detection/assets/140376727/8ee7e75f-bc12-4b2e-8010-649361507d2b" width="600" height="550"/>
+<img src="https://github.com/hyobin0726/object_detection/assets/140376727/8ee7e75f-bc12-4b2e-8010-649361507d2b" width="800" height="450"/>
 
 
 ❓Problem : 다수의 시각장애인들은 본인이 섭취하는 음식의 유통기한을 알지 못하는 불편함을 드러냄, 더 나아가 알약과 같은 의약품의 경우 생김새가 비슷한 경우가 많아 촉감으로는 구별하기 어렵다.😮<br/>
-<img src="https://github.com/hyobin0726/object_detection/assets/140376727/26a36441-28ec-4f54-9bc5-a8638bd9b30b" width="500" height="450"/>
+<img src="https://github.com/hyobin0726/object_detection/assets/140376727/26a36441-28ec-4f54-9bc5-a8638bd9b30b" width="500" height="350"/>
 
 <br/>
 ‼ Idea : AI기술인 객체인식을 이용해 사용자가 원하는 정보(상품명, 유통기한, 복용법)을 음성으로 알려주는 기기는 어떨까? 🤔<br/>
