@@ -14,7 +14,9 @@
 ### 중간 발표 시연영상
 <br/>
 <iframe width="300" height="250" src="https://www.youtube.com/watch?v=v_KV7fvceWY&t=4s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <br/>
+
 ### 최종 발표 시연영상
 <br/>
 [![project1](http://img.youtube.com/vi/uHKPx-g8Uxg/0.jpg)](https://youtu.be/uHKPx-g8Uxg?si=6xrW9cwE7G0S61cI)
