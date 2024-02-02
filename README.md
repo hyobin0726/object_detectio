@@ -26,7 +26,7 @@ https://youtu.be/v_KV7fvceWY?si=LRud7svx71RzoqtO
 ![image](https://github.com/hyobin0726/object_detection/assets/140376727/e25679b7-f839-4b48-86f2-778985a6eca3)
 
 ## 서비스 구조 :
-<img src=" https://github.com/hyobin0726/object_detection/assets/140376727/68cb2168-1b9d-45a9-abfa-33c13de3dc06" width="500" height="400"/>
+<img src="https://github.com/hyobin0726/object_detection/assets/140376727/68cb2168-1b9d-45a9-abfa-33c13de3dc06" width="500" height="400"/>
 
 ## 기술 스택
 * 언어 : Python
