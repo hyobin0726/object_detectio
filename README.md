@@ -37,9 +37,11 @@ https://youtu.be/v_KV7fvceWY?si=LRud7svx71RzoqtO
 * 2022년 9월 ~ 2023년 6월 <br/>
 
 ## 기획 & 설계
+### 시스템 구성도
 <img src="https://github.com/hyobin0726/object_detection/assets/140376727/1ed2609a-6503-4263-8a97-62cd07acf88a" width="500" height="450"/>
-
+### 설계
 <img src="https://github.com/hyobin0726/object_detection/assets/140376727/24f069e4-4fee-49b3-9c1a-98933dba6eb6" width="400" height="350"/>
+### 최종 완성품
 <img src="https://github.com/hyobin0726/object_detection/assets/140376727/48ae92aa-83e2-4726-ae46-db6d89deedbf" width="400" height="350"/>
 
 
