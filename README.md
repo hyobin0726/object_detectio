@@ -26,7 +26,7 @@ https://youtu.be/v_KV7fvceWY?si=LRud7svx71RzoqtO
 ![image](https://github.com/hyobin0726/object_detection/assets/140376727/e25679b7-f839-4b48-86f2-778985a6eca3)
 
 ## 서비스 구조 :
-<img src="https://github.com/hyobin0726/object_detection/assets/140376727/68cb2168-1b9d-45a9-abfa-33c13de3dc06" width="500" height="400"/>
+<img src="https://github.com/hyobin0726/object_detection/assets/140376727/68cb2168-1b9d-45a9-abfa-33c13de3dc06" width="500" height="450"/>
 
 ## 기술 스택
 * 언어 : Python
@@ -37,7 +37,9 @@ https://youtu.be/v_KV7fvceWY?si=LRud7svx71RzoqtO
 * 2022년 9월 ~ 2023년 6월 <br/>
 
 ## 기획 & 설계
-![image](https://github.com/hyobin0726/object_detection/assets/140376727/1ed2609a-6503-4263-8a97-62cd07acf88a)
-![image](https://github.com/hyobin0726/object_detection/assets/140376727/24f069e4-4fee-49b3-9c1a-98933dba6eb6)
-![KakaoTalk_20240202_144412436](https://github.com/hyobin0726/object_detection/assets/140376727/48ae92aa-83e2-4726-ae46-db6d89deedbf)
+<img src="https://github.com/hyobin0726/object_detection/assets/140376727/1ed2609a-6503-4263-8a97-62cd07acf88a" width="500" height="450"/>
+
+<img src="https://github.com/hyobin0726/object_detection/assets/140376727/24f069e4-4fee-49b3-9c1a-98933dba6eb6" width="400" height="350"/>
+<img src="https://github.com/hyobin0726/object_detection/assets/140376727/48ae92aa-83e2-4726-ae46-db6d89deedbf" width="400" height="350"/>
+
 
