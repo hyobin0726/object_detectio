@@ -13,7 +13,7 @@
 ## 구현 영상
 ### 중간 발표 시연영상
 <br/>
-[중간 발표](https://www.youtube.com/watch?v=v_KV7fvceWY&t=4s)
+[중간 발표](https://youtu.be/v_KV7fvceWY?si=s7TzH3gPvdl-ytac)
 
 ### 최종 발표 시연영상
 <br/>
