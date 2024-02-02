@@ -13,7 +13,7 @@
 ## 구현 영상
 ### 중간 발표 시연영상
 <br/>
-[![project1](http://img.youtube.com/vi/v_KV7fvceWY/0.jpg)](https://youtu.be/v_KV7fvceWY?si=N_fqt4wNUI6wjTjQ)
+<iframe width="300" height="250" src="https://www.youtube.com/watch?v=v_KV7fvceWY&t=4s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br/>
 ### 최종 발표 시연영상
 <br/>
