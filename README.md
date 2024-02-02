@@ -11,14 +11,15 @@
 💯 Solution : YOLOv5, OCR, dectron2을 이용해 사용자가 원하는 정보를 알려주자.😁<br/>
 
 ## 구현 영상
-### 중간 발표 시연영상
+### 중간 발표 시연영상 보러가기
 
 [![중간 발표 썸네일](https://img.youtube.com/vi/v_KV7fvceWY/0.jpg)](https://www.youtube.com/watch?v=v_KV7fvceWY&t=4s)
 
 
-### 최종 발표 시연영상
-<br/>
-[![project1](http://img.youtube.com/vi/v=v_KV7fvceWY&t=4s/0.jpg)](https://www.youtube.com/watch?v=v_KV7fvceWY&t=4s)
+### 최종 발표 시연영상 보러가기
+
+[![최종 발표 썸네일](https://img.youtube.com/vi/uHKPx-g8Uxg&t=9s/0.jpg)](https://www.youtube.com/watch?v=uHKPx-g8Uxg&t=9s)
+
 ## 주요 기능과 로직
 1. ### 유통기한
    : 유통기한 위치를 AI 기술로 인식하여 전처리 및 후처리를 거쳐 자세한 정보를 알려준다. 
